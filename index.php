@@ -1,9 +1,4 @@
-<?php
-
-$testnumber = 0;
-
-?>
-
+<!DOCTYPE HTML>
 
 
 <head>
@@ -13,6 +8,5 @@ $testnumber = 0;
 
 
 <h1>  this is a test to show PHP and Javascript code?   </h1>
-  <p><?php echo $testnumber ?> 
   
 </html>
